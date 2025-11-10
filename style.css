@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+h1{
+    font-family: "Creepster", system-ui;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+button{
+    font-family: "Creepster", system-ui;
+    box-shadow:5px 5px 10px 10px red ;
+     font-size:99px ;
+     display: block;
+     margin:50px auto;
+     border: 2px solid rgba(0, 0, 0, 0.827);
+     color:rgba(255, 0, 0, 0.88);
+}
+body{
+  background-color: black;
+  text-align: center;  
+}
+li{
+    font-family: "Creepster", system-ui;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    list-style:none ;
+}
+img{
+   width: 26%;
+   margin: 10px;
+   
+}
+h4{
+  color:rgba(0, 0, 255, 0.936);  
+  font-family: "Jolly Lodger", system-ui;
+  font-size: 45px ;
+}
+.light{
+ filter: drop-shadow(10px 10px 30px green );
+}
