@@ -1,5 +1,9 @@
 *{
     margin: 0;
+
+}
+::selection {
+  background-color: transparent;
 }
 h1{
     font-family: "Creepster", system-ui;
@@ -37,4 +41,7 @@ h4{
 }
 .light{
  filter: drop-shadow(10px 10px 30px green );
+}
+h3{
+color: blue;
 }
