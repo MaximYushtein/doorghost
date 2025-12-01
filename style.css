@@ -1,47 +1,48 @@
-*{
-    margin: 0;
-
+* {
+  margin: 0;
 }
 ::selection {
   background-color: transparent;
 }
-h1{
-    font-family: "Creepster", system-ui;
-    color: rgb(255, 0, 0);
-    text-align: center;
+h1 {
+  font-family: "Creepster", system-ui;
+  color: rgb(8, 0, 255);
+  text-align: center;
 }
-button{
-    font-family: "Creepster", system-ui;
-    box-shadow:5px 5px 10px 10px red ;
-     font-size:99px ;
-     display: block;
-     margin:50px auto;
-     border: 2px solid rgba(0, 0, 0, 0.827);
-     color:rgba(255, 0, 0, 0.88);
+button {
+  font-family: "Creepster", system-ui;
+  box-shadow: 5px 5px 10px 10px red;
+  font-size: 99px;
+  display: block;
+  margin: 50px auto;
+  border: 2px solid rgba(0, 0, 0, 0.827);
+  color: rgba(13, 0, 255, 0.88);
 }
-body{
+body {
   background-color: black;
-  text-align: center;  
+  text-align: center;
 }
-li{
-    font-family: "Creepster", system-ui;
-    color: rgb(255, 0, 0);
-    text-align: center;
-    list-style:none ;
+li {
+  font-family: "Creepster", system-ui;
+  color: rgb(24, 11, 83);
+  text-align: center;
+  list-style: none;
 }
-img{
-   width: 26%;
-   margin: 10px;
-   
+img {
+  width: 26%;
+  margin: 10px;
 }
-h4{
-  color:rgba(0, 0, 255, 0.936);  
+h2 {
+  color: rgba(129, 53, 200, 0.839);
+}
+h4 {
+  color: rgba(0, 0, 255, 0.936);
   font-family: "Jolly Lodger", system-ui;
-  font-size: 45px ;
+  font-size: 45px;
 }
-.light{
- filter: drop-shadow(10px 10px 30px green );
+.light {
+  filter: drop-shadow(10px 10px 30px green);
 }
-h3{
-color: blue;
+h3 {
+  color: blue;
 }
